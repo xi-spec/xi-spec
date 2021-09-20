@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<h2>I'm Xi Zhou! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
+<p><em>Full Stack Developer </em>
 <!--
 **xi-spec/xi-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
